@@ -1,6 +1,34 @@
-# Portfolio
-I’m a technical writer and researcher who specializes in making complex systems clear, accessible, and trustworthy. My work blends curiosity with rigor: I dive into technical domains, study the tools, and translate them into content that engineers and decision-makers can rely on. Whether it’s APIs, AI workflows, or emerging platforms, I focus on clarity, reproducibility, and long-term value.
+# Anjaly Susan Simon – Technical Writer Portfolio
 
-With experience writing for industries like healthcare, telecommunications, and AI, I craft content that balances technical depth with readability. I’ve authored long-form pieces that distill research into evergreen insights, and I maintain a portfolio of work where accuracy and transparency matter as much as style.
+Welcome to my professional portfolio.  
+This repository hosts my **resume and portfolio site** (`index.html`) showcasing my 11 years of experience in **technical writing, documentation, and product research**.
 
-I’m also the author of Let Her Fail, a book on learning through mistakes, and a credentialed coach — experiences that sharpen my ability to communicate with honesty and clarity. My goal is always the same: to produce work that compounds over time, earns trust, and helps technical audiences make informed decisions.
+## 🔑 Core Competencies
+- End-to-end documentation: learn product, test features, craft content, review, publish
+- Audience-focused writing: user guides, developer guides, API docs, troubleshooting guides, admin guides, getting started guides
+- Clear and concise documentation with reproducibility
+- On-time delivery and quality assurance
+- Technical research and product testing
+- AI-assisted writing: efficient use of AI tools without losing technical rigor
+
+## 🛠 Tools & Technologies
+- Technical Writing Tools: MadCap Flare, Oxygen XML, DITA, Confluence, JIRA  
+- Documentation Systems: SAP, ENOVIA  
+- Programming & Markup: Python, HTML, Markdown, GitHub  
+
+## 📂 Professional Experience
+- **Gainwell Technologies (2024–Present)** – Documentation and testing of the *Medicaid application*  
+- **JIFFY.ai (2020–2024)** – End-to-end documentation of the *low-code/no-code App Builder platform*  
+- **Wipro Limited (2018–2020)** – Documentation of *networking products*  
+- **HCL Technologies (2017–2018)** – Documentation of *medical diagnostic equipment*  
+- **HCL Technologies (2015–2017)** – Documentation workflows for *engineering change requests and orders*  
+
+## 🎓 Education
+- MBA in Human Resource Management & Marketing – ARM College of Engineering & Technology, Anna University  
+- B.Tech in Electrical Engineering – SNGCE College of Engineering, MG University  
+
+## 🌐 Portfolio
+Visit my portfolio site here: [GitHub Pages Link](https://your-username.github.io/portfolio/)  
+*(Update with your actual GitHub Pages URL once published)*
+
+---
