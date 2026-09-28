@@ -27,8 +27,6 @@ This repository hosts my **resume and portfolio site** (`index.html`) showcasing
 - MBA in Human Resource Management & Marketing – ARM College of Engineering & Technology, Anna University  
 - B.Tech in Electrical Engineering – SNGCE College of Engineering, MG University  
 
-## 🌐 Portfolio
-Visit my portfolio site here: [GitHub Pages Link](https://your-username.github.io/portfolio/)  
-*(Update with your actual GitHub Pages URL once published)*
+
 
 ---
