@@ -14,7 +14,14 @@ This repository hosts my **resume and portfolio site** (`index.html`) showcasing
 ## 🛠 Tools & Technologies
 - Technical Writing Tools: MadCap Flare, Oxygen XML, DITA, Confluence, JIRA  
 - Documentation Systems: SAP, ENOVIA  
-- Programming & Markup: Python, HTML, Markdown, GitHub  
+- Programming & Markup: Python, HTML, Markdown, GitHub
+  
+## Documentation Sample 
+Here is a glimpse of how I document complex software products. At Jiffy.ai, I was the sole technical writer, owning the documentation from understanding and testing the product to creating and maintaining developer guides, API documentation, application and connector documentation, and admin guides.
+
+- docs.jiffy.ai
+- guides.jiffy.ai
+
 
 ## 📂 Professional Experience
 - **Gainwell Technologies (2024–Present)** – Documentation and testing of the *Medicaid application*  
@@ -25,7 +32,8 @@ This repository hosts my **resume and portfolio site** (`index.html`) showcasing
 
 ## 🎓 Education
 - MBA in Human Resource Management & Marketing – ARM College of Engineering & Technology, Anna University  
-- B.Tech in Electrical Engineering – SNGCE College of Engineering, MG University  
+- B.Tech in Electrical Engineering – SNGCE College of Engineering, MG University
+
 
 
 
