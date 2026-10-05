@@ -19,8 +19,8 @@ This repository hosts my **resume and portfolio site** (`index.html`) showcasing
 ## Documentation Sample 
 Here is a glimpse of how I document complex software products. At Jiffy.ai, I was the sole technical writer, owning the documentation from understanding and testing the product to creating and maintaining developer guides, API documentation, application and connector documentation, and admin guides.
 
-- docs.jiffy.ai
-- guides.jiffy.ai
+- https://docs.jiffy.ai/
+- https://guides.jiffy.ai/
 
 
 ## 📂 Professional Experience
